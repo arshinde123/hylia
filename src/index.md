@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to Fanda Blog
+title: Welcome to my blog
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
